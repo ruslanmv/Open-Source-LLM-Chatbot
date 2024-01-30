@@ -9,3 +9,5 @@ huggingface_hub
 
 # llamaindex
 llama-index
+
+pyngrok
