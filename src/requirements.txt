@@ -1,0 +1,11 @@
+# GRADIO 
+gradio
+
+# python binding for LLM
+llama-cpp-python
+
+# to download model
+huggingface_hub
+
+# llamaindex
+llama-index
