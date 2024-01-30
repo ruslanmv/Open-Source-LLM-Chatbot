@@ -130,4 +130,4 @@ with gr.Blocks() as UI:
          models.change(fn=model_initialization,inputs=[models],outputs=[textInfo])
 
 if __name__ == "__main__":
-    UI.launch(debug=True) # 
+    UI.launch(debug=True,share=True) # 
